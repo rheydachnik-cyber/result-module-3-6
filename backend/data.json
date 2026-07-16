@@ -1,0 +1,25 @@
+{
+  "applications": [],
+  "users": [
+    {
+      "id": 3,
+      "email": "doctor@mailclin.ru",
+      "password": "123123",
+      "fullName": "зщ",
+      "phone": "+7 (123) 123-12-31",
+      "role": "doctor",
+      "createdAt": "2026-07-16T09:28:41.253Z"
+    },
+    {
+      "id": 4,
+      "email": "asd@asd",
+      "password": "123123",
+      "fullName": "asd",
+      "phone": "+7 (123) 123-12-31",
+      "role": "patient",
+      "createdAt": "2026-07-16T10:21:21.894Z"
+    }
+  ],
+  "idCounter": 3,
+  "userIdCounter": 5
+}
